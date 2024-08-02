@@ -21,13 +21,11 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SampleCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="config.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Font Include="..\COMP4300-Assignment-1-main\project\fonts\KillerTech.ttf">
-      <Filter>fonts</Filter>
-    </Font>
   </ItemGroup>
 </Project>

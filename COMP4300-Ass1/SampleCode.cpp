@@ -20,9 +20,6 @@ int main()
     circle.setPosition(300.0f, 300.0f); // set top left position of the shape
     float circleSpeed = 1.0f; // 1.0f per frame
 
-    sf::Vector2f rSize(300, 100);
-    sf::RectangleShape rectangle(rSize);
-
     sf::Font font;
     if (!font.loadFromFile("fonts/FreshMulberryDemoRegular.ttf")) // if it returns true, nothing happens
     {
